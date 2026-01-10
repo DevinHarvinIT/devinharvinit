@@ -20,14 +20,17 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 
 ## 🎓 Certifications
 
-![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-EA2D2E?style=for-the-badge)
-![CourseCareers](https://img.shields.io/badge/CourseCareers-IT%20Program-7F3FBF?style=for-the-badge)
-![Google](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-CCNA%20In%20Progress-00A0DF?style=for-the-badge&logo=cisco&logoColor=white)
+<img src="YOUR_COMPTIA_SECURITY_PLUS_PATCH_URL_HERE" alt="CompTIA Security+" width="520">
+
+<img src="YOUR_COURSECAREERS_IT_PROGRAM_PATCH_URL_HERE" alt="CourseCareers IT Program" width="520">
+
+<img src="YOUR_GOOGLE_CYBERSECURITY_PRO_PATCH_URL_HERE" alt="Google Cybersecurity Professional Certificate" width="520">
+
+<img src="YOUR_CCNA_IN_PROGRESS_PATCH_URL_HERE" alt="Cisco CCNA In Progress" width="520">
 
 ## 🔗 Connect With Me
 
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" />](https://www.linkedin.com/in/devinharvin)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" alt="LinkedIn" />](https://www.linkedin.com/in/devinharvin)
 
 
 
