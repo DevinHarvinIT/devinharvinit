@@ -13,22 +13,34 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 
 ## 🛠️ Tools & Technologies
 
-![Cloud Microsoft Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-4FC3F7?style=flat&logo=microsoftazure&logoColor=white)
-![OS Windows 10](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white)
-![Technology Networking](https://img.shields.io/badge/Technology-Networking-4CAF50?style=flat)
-![Scripting PowerShell](https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+**Cloud**  
+![Azure](https://img.shields.io/badge/Microsoft-Azure-lightblue?logo=microsoftazure&logoColor=white)
+
+**Operating System**  
+![Windows 10](https://img.shields.io/badge/OS-Windows%2010-blue?logo=windows&logoColor=white)
+
+**Technology**  
+![Networking](https://img.shields.io/badge/Technology-Networking-green)
+
+**Scripting**  
+![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-darkblue?logo=powershell&logoColor=white)
+
 
 ## 🎓 Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
-![CourseCareers IT](https://img.shields.io/badge/CourseCareers-IT%20Program-7E3FF2?style=for-the-badge&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA%20In%20Progress-00B3B8?style=for-the-badge&logo=cisco&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)
+
+![CourseCareers IT](https://img.shields.io/badge/CourseCareers-IT%20Program-purple)
+
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional-blue?logo=google&logoColor=white)
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20(In%20Progress)-teal?logo=cisco&logoColor=white)
 
 
-## 🔗 Connect With Me
 
-[![LinkedIn](https://colored-icons.vercel.app/icons/linkedin.svg)](https://www.linkedin.com/in/devinharvin/)
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinharvin)
 
 
 
