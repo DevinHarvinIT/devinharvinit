@@ -14,11 +14,8 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 ## 🛠️ Tools & Technologies
 
 ![Cloud Microsoft Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-4FC3F7?style=flat&logo=microsoftazure&logoColor=white)
-
 ![OS Windows 10](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white)
-
 ![Technology Networking](https://img.shields.io/badge/Technology-Networking-4CAF50?style=flat)
-
 ![Scripting PowerShell](https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ## 🎓 Certifications
