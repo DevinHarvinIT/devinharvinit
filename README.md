@@ -8,7 +8,12 @@ This portfolio showcases my hands-on work and learning as I grow within the ever
 
 _(Projects will be added here as they are completed.)_
 
-## 🎓 Certifications
+🎓 Certifications
+
+CompTIA Security+  
+Google Cybersecurity Professional Certificate  
+CCNA (In Progress)
+
 
 _(Certifications will be listed here.)_
 
