@@ -1,8 +1,8 @@
 # Devin Harvin’s IT Project Portfolio
 
-I’m a tech enthusiast with a strong interest in solving problems through hands-on projects and practical exploration. I enjoy learning new systems, building real-world skills, and continuously improving my understanding of how systems, networks, and infrastructure integrate and work together.
+I’m a tech enthusiast with a strong interest in solving problems through hands-on projects and practical exploration. I enjoy learning new systems, building real world skills, and continuously improving my understanding of how systems, networks, and infrastructure integrate and work together.
 
-This portfolio showcases my hands-on work and learning as I grow within the ever-expanding tech industry. Feel free to explore the projects and follow along as this portfolio continues to develop.
+This portfolio showcases my hands-on work and learning as I grow within the ever expanding tech industry. Feel free to explore the projects and follow along as this portfolio continues to develop.
 
 ## 👨🏾‍💻 IT Projects
 
