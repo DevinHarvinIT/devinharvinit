@@ -4,9 +4,13 @@ I’m a tech enthusiast with a strong interest in solving problems through hands
 
 This portfolio showcases my hands-on work and learning as I grow within the ever-expanding tech industry. Feel free to explore the projects and follow along as this portfolio continues to develop.
 
-## 👨🏾‍💻 IT Projects
+👨🏾‍💻 IT Projects
 
-_(Projects will be added here as they are completed.)_
+Azure VM Network Test  
+https://github.com/devinharvinit/Azure-VM-Network-Test
+
+
+
 
 🎓 Certifications
 
