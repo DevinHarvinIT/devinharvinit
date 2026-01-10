@@ -20,17 +20,19 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 
 ## 🎓 Certifications
 
-<img src="YOUR_COMPTIA_SECURITY_PLUS_PATCH_URL_HERE" alt="CompTIA Security+" width="520">
-
-<img src="YOUR_COURSECAREERS_IT_PROGRAM_PATCH_URL_HERE" alt="CourseCareers IT Program" width="520">
-
-<img src="YOUR_GOOGLE_CYBERSECURITY_PRO_PATCH_URL_HERE" alt="Google Cybersecurity Professional Certificate" width="520">
-
-<img src="YOUR_CCNA_IN_PROGRESS_PATCH_URL_HERE" alt="Cisco CCNA In Progress" width="520">
+<img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+<br>
+<img alt="CourseCareers IT Program" src="https://img.shields.io/badge/CourseCareers-IT%20Program-7F3FBF?style=for-the-badge&logoColor=white" />
+<br>
+<img alt="Google Cybersecurity Professional Certificate" src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<br>
+<img alt="Cisco CCNA In Progress" src="https://img.shields.io/badge/Cisco-CCNA%20In%20Progress-2BBBAD?style=for-the-badge&logo=cisco&logoColor=white" />
 
 ## 🔗 Connect With Me
 
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" alt="LinkedIn" />](https://www.linkedin.com/in/devinharvin)
+<a href="https://www.linkedin.com/in/devinharvin">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 
