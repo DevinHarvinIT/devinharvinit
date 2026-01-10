@@ -27,8 +27,7 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 
 ## 🔗 Connect With Me
 
-<i class="ci ci-linkedin-horizontal"></i>
-
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" />](https://www.linkedin.com/in/devinharvin)
 
 
 
