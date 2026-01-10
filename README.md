@@ -28,9 +28,9 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 <br>
 <img alt="Cisco CCNA In Progress" src="https://img.shields.io/badge/Cisco-CCNA%20In%20Progress-2BBBAD?style=for-the-badge&logo=cisco&logoColor=white" />
 
-## Stay connected:
+## 🔗 Connect With Me
 
-![LinkedIn](https://github.com/USERNAME/REPO/blob/main/assets/facebook-like-linkedIn.svg)
+[![LinkedIn](https://github.com/devinharvinit/devinharvinit/blob/main/assets/linkedin-logo.svg)](https://www.linkedin.com/in/devinharvin)
 
 
 
