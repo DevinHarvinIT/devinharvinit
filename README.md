@@ -30,7 +30,7 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://github.com/devinharvinit/devinharvinit/blob/main/assets/linkedin-logo.svg)](https://www.linkedin.com/in/devinharvin)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinharvin)
 
 
 
