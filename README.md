@@ -1,35 +1,34 @@
-## Devin Harvin’s IT Project Portfolio
+# Devin Harvin’s IT Project Portfolio
 
-I’m a tech enthusiast with a strong interest in solving problems through hands-on projects and practical exploration. I enjoy learning new systems, building real world skills, and continuously improving my understanding of how systems, networks, and infrastructure integrate and work together.
+I’m a tech enthusiast with a strong interest in solving problems through hands-on projects and practical exploration. I enjoy learning new systems, building real-world skills, and continuously improving my understanding of how systems, networks, and infrastructure integrate and work together.
 
 This portfolio showcases my hands-on work and learning as I grow within the ever-expanding tech industry. Feel free to explore the projects and follow along as this portfolio continues to develop.
 
-👨🏾‍💻 IT Projects
+## 👨🏾‍💻 IT Projects
 
-Azure VM Network Test  
+### Azure VM Network Test  
+Hands-on Azure lab focused on virtual machine deployment, virtual networking, connectivity testing, and foundational cloud infrastructure concepts.
+
 https://github.com/devinharvinit/Azure-VM-Network-Test
-
-
-
-
-🎓 Certifications
-
-CompTIA Security+  
-Google Cybersecurity Professional Certificate  
-CCNA (In Progress)
-
-
-_(Certifications will be listed here.)_
 
 ## 🛠️ Tools & Technologies
 
-_(Tools and technologies will be added as experience grows.)_
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-4CAF50?style=flat)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+## 🎓 Certifications
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA0028?style=flat&logo=comptia&logoColor=white)
+
+![CourseCareers IT](https://img.shields.io/badge/CourseCareers-Information%20Technology%20Program-7B3FE4?style=flat)
+
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat&logo=google&logoColor=white)
+
+![CCNA](https://img.shields.io/badge/Cisco-CCNA%20(In%20Progress)-00B3B8?style=flat&logo=cisco&logoColor=white)
 
 ## 🔗 Connect With Me
 
-
-
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/devinharvin)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devin%20Harvin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinharvin)
 
