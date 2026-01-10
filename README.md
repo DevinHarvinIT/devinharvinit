@@ -20,15 +20,14 @@ https://github.com/devinharvinit/Azure-VM-Network-Test
 
 ## 🎓 Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA0028?style=flat&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
+![CourseCareers IT](https://img.shields.io/badge/CourseCareers-IT%20Program-7E3FF2?style=for-the-badge&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA%20In%20Progress-00B3B8?style=for-the-badge&logo=cisco&logoColor=white)
 
-![CourseCareers IT](https://img.shields.io/badge/CourseCareers-Information%20Technology%20Program-7B3FE4?style=flat)
-
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat&logo=google&logoColor=white)
-
-![CCNA](https://img.shields.io/badge/Cisco-CCNA%20(In%20Progress)-00B3B8?style=flat&logo=cisco&logoColor=white)
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devin%20Harvin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinharvin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devin%20Harvin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinharvin/)
+
 
