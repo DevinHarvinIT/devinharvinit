@@ -11,7 +11,7 @@ Hands-on Azure lab focused on virtual machine deployment, virtual networking, co
 
 https://github.com/devinharvinit/Azure-VM-Network-Test
 ## Active Directory Labs- Create User in Active Directory  
-[create new user](https://github.com/YourUsername/Active-Directory)
+[Create a new user in Active Directory](https://github.com/YourUsername/Active-Directory)
 ## 🛠️ Tools & Technologies
 
 ![Cloud](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
