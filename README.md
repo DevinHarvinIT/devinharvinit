@@ -8,6 +8,10 @@ This portfolio showcases my hands-on work and learning as I grow within the ever
 
 ### Azure VM Network Test  
 Hands-on Azure lab focused on virtual machine deployment, virtual networking, connectivity testing, and foundational cloud infrastructure concepts.
+## Active Directory Labs
+
+- Create User in Active Directory  
+  https://github.com/YourUsername/Active-Directory
 
 https://github.com/devinharvinit/Azure-VM-Network-Test
 
