@@ -7,14 +7,14 @@ This portfolio showcases my hands-on work and learning as I grow within the ever
 ## 👨🏾‍💻 IT Projects
 
 
-## ☁️ Cloud Infrastructure Labs
+## ☁️ Cloud
 Hands-on Azure lab focused on virtual machine deployment, virtual networking, connectivity testing, and foundational cloud infrastructure concepts.
 
 - [Azure Virtual Machine Deployment and Network Connectivity](https://github.com/devinharvinit/Azure-VM-Network-Test)
-## 📁 Active Directory Labs
+## 📁 Active Directory
 - [Creating a user in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-)
 
-## 🧾 Ticketing Systems Labs
+## 🧾 Ticketing Systems
 ## 🛠️ Tools & Technologies
 
 ![Cloud](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
