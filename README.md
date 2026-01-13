@@ -6,6 +6,7 @@ This portfolio showcases my hands-on work and learning as I grow within the ever
 
 ## 👨🏾‍💻 IT Projects
 
+
 ## ☁️ Azure VM Labs 
 Hands-on Azure lab focused on virtual machine deployment, virtual networking, connectivity testing, and foundational cloud infrastructure concepts.
 
