@@ -13,7 +13,7 @@ Hands-on Azure lab focused on virtual machine deployment, virtual networking, co
 - [Azure Virtual Machine Deployment and Network Connectivity](https://github.com/devinharvinit/Azure-VM-Network-Test)
 ## 📁 Active Directory
 - [Creating a user in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-)
-
+- [Reset Password in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-password-reset/tree/main)
 ## 🧾 Ticketing Systems
 ## 🛠️ Tools & Technologies
 
