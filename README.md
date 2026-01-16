@@ -15,7 +15,7 @@ Hands-on Azure lab focused on virtual machine deployment, virtual networking, co
 - [Creating a user in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-)
 - [Reset Password in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-password-reset/tree/main)
 ## 🧾 Ticketing Systems
-
+[osTicket:Ticket Lifecycle and Resolution](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/main/README.md)
 
 ## 🛠️ Tools & Technologies
 
