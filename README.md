@@ -19,7 +19,7 @@ This portfolio showcases my hands-on work and learning as I grow within the ever
 [osTicket:Ticket Lifecycle and Resolution](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/main/README.md)
 
 ## 🛜 Networking
-## 🛠️ Tools & Technologies
+[VPN Configuration (In Progress)](https://github.com/DevinHarvinIT/VPN/blob/main/README.md)## 🛠️ Tools & Technologies
 
 ![Cloud](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white)
