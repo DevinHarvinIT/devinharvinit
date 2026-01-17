@@ -16,10 +16,10 @@ This portfolio showcases my hands-on work and learning as I grow within the ever
 - [Creating a user in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-)
 - [Reset Password in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-password-reset/tree/main)
 ## 🧾 Ticketing Systems
-[osTicket:Ticket Lifecycle and Resolution](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/main/README.md)
+- [osTicket:Ticket Lifecycle and Resolution](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/main/README.md)
 
 ## 🛜 Networking
-[VPN Configuration (In Progress)](https://github.com/DevinHarvinIT/VPN/blob/main/README.md)
+- [VPN Configuration](https://github.com/DevinHarvinIT/VPN/tree/main)
 
 ## 🛠️ Tools & Technologies
 
