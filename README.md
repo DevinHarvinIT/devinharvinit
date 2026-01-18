@@ -16,6 +16,7 @@ This portfolio showcases my hands-on work and learning as I grow within the ever
 - [Creating a user in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-)
 - [Reset Password in Active Directory](https://github.com/DevinHarvinIT/Active-Directory-password-reset/tree/main)
 ## 🧾 Ticketing Systems
+- [Service Now:Ticket Lifecycycle and Resolution](https://github.com/DevinHarvinIT/Service-Now/tree/main)-
 - [osTicket:Ticket Lifecycle and Resolution](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/main/README.md)
 
 ## 🛜 Networking
